@@ -2,3 +2,6 @@
 
 # $%$Start
 # this should fail
+
+
+# $%$BadToken
