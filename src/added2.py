@@ -1,3 +1,2 @@
 #second addded file
 
-# $%$AlsoBad
