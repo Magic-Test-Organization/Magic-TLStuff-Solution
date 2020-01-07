@@ -5,3 +5,7 @@ print("this is fine")
 # $%$End
 
 
+
+# $%$BadToken
+
+# $%$AlsoBad
