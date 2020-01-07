@@ -8,3 +8,6 @@ def tl_function:
   print("lets see what happens!")
   
   print("This should appear")
+
+  print("if the server is running ")
+  
