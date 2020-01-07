@@ -4,10 +4,4 @@
 print("this is fine")
 # $%$End
 
-# $%$Start
-# this should fail
 
-
-# $%$BadToken
-
-# $%$AlsoBad
