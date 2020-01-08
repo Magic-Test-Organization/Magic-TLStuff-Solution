@@ -34,3 +34,5 @@ print("this is fine")
 
 # $%$Start
 # this should fail
+
+# $%$Start
