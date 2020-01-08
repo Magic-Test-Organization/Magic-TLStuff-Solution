@@ -6,21 +6,18 @@
 #where is it?
 #now?
 
+# $%$End
+
 # funny elsif?
 
 # $%$Start
 print("this is fine")
 # $%$End
 
-# $%$Start
-# this should fail
-
-
 # $%$BadToken
 # $%$AlsoBad
 
 
-# $%$End
 
 
 
@@ -34,3 +31,6 @@ print("this is fine")
 # it is the elsif
 
 # misplaced end
+
+# $%$Start
+# this should fail
