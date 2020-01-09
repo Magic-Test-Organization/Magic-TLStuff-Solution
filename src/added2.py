@@ -2,6 +2,7 @@
 #this will be different and will update
 
 #test refactor1bc
+#test 2 plus conflict
 
 # maybe it can't be broken?
 
