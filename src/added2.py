@@ -3,6 +3,7 @@
 
 #test refactor1bc
 #test 2 plus conflictbc odd
+#New bug not updating line 5
 
 # maybe it can't be broken?
 
