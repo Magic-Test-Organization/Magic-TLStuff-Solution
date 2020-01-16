@@ -1,4 +1,5 @@
 def tl_function:
+  print("demo")
   print("this is our boilerplate")
  
   print("this is more boilerplate")
