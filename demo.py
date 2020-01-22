@@ -4,5 +4,6 @@ def demo():
   # $%$Starttt
   print("this is solution code")
   # $%$End
+  # bloop
 
   print("This is more student facing code")
