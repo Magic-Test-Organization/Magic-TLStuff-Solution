@@ -1,7 +1,7 @@
 def demo():
   print("this should show up to students")
 
-  # $%$Starttt
+  # $%$Start
   print("this is solution code")
   # $%$End
   # bloop
